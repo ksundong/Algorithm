@@ -11,5 +11,3 @@
 ## [Baekjoon](/BaekJoon)
 
 - [HelloWorld](/BaekJoon/src/helloWorld) Hello World! 출력하기 @[BaekJoon](https://www.acmicpc.net/problem/2557)
-
-- [A+B](/BaekJoon/src/AplusB) A와 B의 합 구하기 @[BaekJoon](https://www.acmicpc.net/problem/1000)
